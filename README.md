@@ -1,2 +1,2 @@
-# web
-Live Website
+# Website
+Code for the live website for codeatlantic.com
